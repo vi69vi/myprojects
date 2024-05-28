@@ -1,0 +1,13 @@
+Designed by Beidinchanova Viktoria 
+
+/css - style assets
+/fonts - style assets
+/img - style assets
+/js - function assets
+/data - caching
+/php - backend side
+/upload - data to upload
+/views - templates for frontend 
+/widget-themes - themes for app
+
+
